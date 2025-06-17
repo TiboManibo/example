@@ -39,7 +39,7 @@ if button1 or button2 or button3:
     else:
         st.text('you lose')
         result='lose'
-        st.image('D:\NMSU+\Herrador\course\.venv\burrro.JEPG')
+        st.image(https://www.google.com/imgres?q=burro%20tonto%20dibujo&imgurl=https%3A%2F%2Fih1.redbubble.net%2Fimage.880069275.7702%2Fflat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.jpg&imgrefurl=https%3A%2F%2Fwww.redbubble.com%2Fes%2Fi%2Fposter%2FBurro-tonto-de-Bumble-Bea%2F40377702.LVTDI&docid=H3cWqZH7VUbMYM&tbnid=ZZW7oM-X7Vr9-M&vet=12ahUKEwiq3rLwvPmNAxUHnokEHVDeKLwQM3oFCIkBEAA..i&w=750&h=1000&hcb=2&ved=2ahUKEwiq3rLwvPmNAxUHnokEHVDeKLwQM3oFCIkBEAA.jpg)
 st.text('calla idiota')
 #two player
 
